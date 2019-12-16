@@ -42,4 +42,4 @@ To tell PUMA to discriminate between regulators that can, and regulators that ca
 ```
 ./PUMA -e ToyExpressionData.txt -m ToyMotifData.txt -u miRlist.txt -o ToyOutput
 ```
-More flags are highlighted in the source code. The PUMA C++ code was based on the PANDA C++ version 2 sourceforge project: https://sourceforge.net/projects/panda-net/.
+The PUMA C++ code was based on the PANDA C++ version 2 sourceforge project: https://sourceforge.net/projects/panda-net/.
