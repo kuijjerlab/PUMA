@@ -1,6 +1,6 @@
 # PUMA #
 ## PANDA Using MicroRNA Associations ##
-PUMA, or **P**ANDA **U**sing **M**icroRNA **A**ssociations, is a regulatory network reconstruction algorithm that uses message passing to model gene regulatory interactions. PUMA can reconstruct gene regulatory networks using both transcription factors and microRNAs as regulators of mRNA expression levels. This Github repository contains both a C++ version and a MATLAB version of PUMA. PUMA is available in C++ code, as well as in MATLAB code.
+PUMA, or **P**ANDA **U**sing **M**icroRNA **A**ssociations, is a regulatory network reconstruction algorithm that uses message passing to model gene regulatory interactions. PUMA can reconstruct gene regulatory networks using both transcription factors and microRNAs as regulators of mRNA expression levels. This Github repository contains both a C++ version and a MATLAB version of PUMA.
 
 ## C++ code ##
 The C++ code of PUMA and example files to run PUMA can be found in folder `PUMAc`. The code can be compiled using:
